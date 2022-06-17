@@ -1,0 +1,29 @@
+body {
+  height:330px;
+  width: 200px;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  height: 40px;
+  align-items: center;
+}
+
+.label {
+  font-weight: 800;
+}
+
+#save {
+  font-weight: 700;
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  margin-top: 15px;
+  float: right;
+}

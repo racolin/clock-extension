@@ -1,0 +1,53 @@
+#clock {
+    overflow: hidden;
+}
+
+.tool {
+    border: none;
+    position: absolute;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+#minmax {
+    background-color: aqua;
+    top: 10px;
+}
+
+.tool img {
+    width: 100%;
+}
+
+#plus-size {
+    background-color: aqua;
+    top: 40px;
+}
+
+#minus-size {
+    background-color: orangered;
+    top: 70px;
+}
+
+#up {
+    background-color: aqua;
+    top: 100px;
+}
+
+#down {
+    background-color: orangered;
+    top: 130px;
+}
+
+#mute {
+    background-color: red;
+    top: 160px;
+}
+
+#canvas {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+}
